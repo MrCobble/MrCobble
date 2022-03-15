@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Chauhan</h1>
 <h3 align="center">A passionate business and computer science student</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:___</h3>
 <p align="left">
 </p>
 
